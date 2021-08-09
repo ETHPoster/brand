@@ -1,2 +1,1 @@
-# brand
-Poster brand assets
+![image](banner.svg)
